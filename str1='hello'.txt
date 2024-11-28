@@ -1,0 +1,3 @@
+str1='hello'
+str2='world'
+combined_str=str1+""+str2
